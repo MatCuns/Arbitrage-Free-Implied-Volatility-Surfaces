@@ -154,8 +154,9 @@ This leads to drift-restriction problems analogous to Heath–Jarrow–Morton th
 - Implement arbitrage-free parameterizations (SVI / eSSVI)  
 - Calibrate them to real option market data  
 - Numerically verify convexity, density positivity, and calendar consistency  
-- Simulate surface dynamics via Monte Carlo methods  
-- Study geometric and probabilistic properties of implied volatility evolution  
+- Simulate surface dynamics via Monte Carlo methods 
+- Study geometric and probabilistic properties of implied volatility evolution
+- Backtesting using past data
 
 ## Language and Tools
 
